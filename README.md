@@ -1,2 +1,2 @@
-# NM-CNTT-NH-M-5
+# NM-CNTT-NHOM-5
 tìm hiểu về github
